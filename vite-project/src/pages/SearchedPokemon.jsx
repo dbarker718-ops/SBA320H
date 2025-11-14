@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import LoadingScreen from "../components/LoadingScreen";
 import ErrorScreen from "./ErrorScreen";
-import Button from "../components/button";
+import Button from "../components/Button";
 import "../css/SearchedPokemon.css";
 import Stats from "../components/Stats";
 
